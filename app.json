@@ -1,7 +1,7 @@
 {
-    "name": "فريدوم صوتي",
+    "name": "Source Dark",
     "description": "- السورس اخر اصدار .",
-    "logo": "https://graph.org/file/ce800ecf11126af579375.jpg",
+    "logo": "https://te.legra.ph/file/08cec0a2a844713e1624a.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -28,7 +28,7 @@
       },
       "OWNER_ID": {
         "description": "- اكتب ايدي المالك .",
-        "value": "1854384004",
+        "value": "6448695425",
         "required": true
       },
       "SESSION": {
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "- قناة المطور .",
-        "value": "https://t.me/xl444",
+        "value": "https://t.me/YlQIl",
         "required": false
       }
     },
